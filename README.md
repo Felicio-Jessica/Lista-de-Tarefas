@@ -4,9 +4,10 @@
 ### Para acessar uma demonstração do  projeto<br/>
 Clique aqui: https://felicio-jessica.github.io/Lista-de-Tarefas<br/>
 
-Sobre<br/>
-A ideia do projeto foi criar uma simples tela onde podem ser acrecentadas as taresfas do nosso dia-dia para ajudar com a organização<br/>
-Funcionalidades:<br/>
+📜Sobre<br/>
+A ideia do projeto foi criar uma tela simples onde podem ser acrescentadas as taresfas do nosso dia-dia para ajudar com uma organização<br/>
+
+### Funcionalidades:<br/>
 Ao clicar em "Adicionar tarefas..." usuário pode acrecentar quantas tarafes forem necessárias;<br/>
 Podendo excluir as tarefas a qualquer momento de sua lista;<br/>
 Ao clicar no "X" para excluir a tarefa, vai aparecer a mensagem perguntando se tem certeza que deseja excluir a tarefa selecionada.
