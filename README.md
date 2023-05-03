@@ -5,7 +5,7 @@
 Clique aqui: https://felicio-jessica.github.io/Lista-de-Tarefas<br/>
 
 📜Sobre<br/>
-A ideia do projeto foi criar uma tela simples onde podem ser acrescentadas as taresfas do nosso dia-dia para ajudar com uma organização<br/>
+A ideia do projeto foi criar uma tela onde pode ser adicionado tarefas em ordem<br/>
 
 ### Funcionalidades:<br/>
 Ao clicar em "Adicionar tarefas..." usuário pode acrecentar quantas tarafes forem necessárias;<br/>
